@@ -1,3 +1,5 @@
+# This script analyzes housing data for Luxembourg
+
 # Libraries
 library(dplyr)
 library(purrr)
